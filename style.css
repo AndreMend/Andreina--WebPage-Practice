@@ -19,7 +19,7 @@ color: rgb(186, 214, 213);
 }
 
 body{
-	background-color: rgb(212, 186, 214);
+	background-color:
 }
 
 h5{
@@ -51,4 +51,15 @@ h4{
 
 .nav{
   background-color: rgb(176, 153, 174, 0.2);
+}
+
+.column{
+  float : left;
+  width : 33.3%;
+}
+
+.row:after{
+  content : "";
+  display : table;
+  clear : both;
 }
