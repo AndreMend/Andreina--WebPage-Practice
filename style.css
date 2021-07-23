@@ -66,6 +66,6 @@ color : white;
 }
 
 .navbar a.active{
-  background : green;
+  background: gray;
   color : white;
 }
